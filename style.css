@@ -1,0 +1,15 @@
+:root {
+    --main-color:'#FD823D';
+    --second-color:white;
+    --third-color:black;
+  }
+
+
+
+.food{
+    width:100px;
+}
+
+.hiddenFood{
+    display:none;
+}
